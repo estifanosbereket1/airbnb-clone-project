@@ -28,6 +28,7 @@ This project provides both RESTful and GraphQL APIs for listing properties, book
 
 - Code is managed on **GitHub**
 - **Jenkins** automates testing and deployment
+  
 
 ## Team Roles
 
